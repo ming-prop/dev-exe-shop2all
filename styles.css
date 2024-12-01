@@ -8,7 +8,7 @@
 /* Body and Background */
 body {
     font-family: 'Arial', sans-serif;
-    background: url('images/background.jpg/sky win.gif') no-repeat center center fixed; /* Added GIF as background */
+    background: url('images/background.jpg/HOME.gif') no-repeat center center fixed; /* Added GIF as background */
     background-size: cover; /* Makes sure the GIF covers the whole screen */
     color: #fff;
     transition: all 0.3s ease;
